@@ -1,6 +1,5 @@
-#!/bin/sh
-'''exec' "/Users/ke-c02rc5yhfvh3/Documents/DJango Projects/fisrt_app/env/bin/python3" "$0" "$@"
-' '''
+#!/Users/ke-c02rc5yhfvh3/Documents/Polls-Django/env/bin/python3
+
 # -*- coding: utf-8 -*-
 import re
 import sys

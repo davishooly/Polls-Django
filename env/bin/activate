@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/ke-c02rc5yhfvh3/Documents/DJango Projects/fisrt_app/env"
+VIRTUAL_ENV="/Users/ke-c02rc5yhfvh3/Documents/Polls-Django/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
